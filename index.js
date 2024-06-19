@@ -1,1 +1,1 @@
-hello worl
+console.log ("hello git and Github")
