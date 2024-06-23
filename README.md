@@ -1,4 +1,8 @@
-Following are the learing points
+# Source Amigoscode: https://www.youtube.com/watch?v=3fUbBnN_H2c&t=7310s
+
+![maxresdefault](https://github.com/chaudhariavinash/learning-git/assets/128373403/ed7f202a-26fe-4fec-a034-6a8c403b39f8)
+
+# Following are the learing points
 1. (ctrl + l) - to clear screen
 2. repository - collection of various versions of a project
 3. (git add -A) – to add everything, if we are in subdirectory we can add from parent directory
