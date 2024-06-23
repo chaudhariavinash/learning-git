@@ -25,13 +25,13 @@
 19. (git log--oneline) - sofisticated log
 20. the branch must be deleted separately on remote and local repo after mearging
 21. REBASE - when your main branch has moved on and you dont have the changes from the main branch- the rebase will take all commits from master and will try to apply our commits on top of it
-(git pull -r origin main) - pull the main branch or parent branch as a base
-reslove the conflicts by editing the mentioned files
-(git add .)
-(git rebase --continue) - continue the rebasing, repeat these steps till the patch failed error is gone
-(git push -f) - force push the child branch
+-(git pull -r origin main) - pull the main branch or parent branch as a base
+-reslove the conflicts by editing the mentioned files
+-(git add .)
+-(git rebase --continue) - continue the rebasing, repeat these steps till the patch failed error is gone
+-(git push -f) - force push the child branch
 22. SQUASH and REBASE-
-(git rebase -i HEAD~n)- n is the no. of latest commits to be squashed
-A file opens up, let the top most commit be at pick and change all other commits to squash then save and exit
-now other files opens up, you can edit the commit messege here
-follow the above mentioned rebase method to rebase
+-(git rebase -i HEAD~n)- n is the no. of latest commits to be squashed
+-A file opens up, let the top most commit be at pick and change all other commits to squash then save and exit
+-now other files opens up, you can edit the commit messege here
+-follow the above mentioned rebase method to rebase
