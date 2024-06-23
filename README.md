@@ -34,4 +34,4 @@
 * (git rebase -i HEAD~n)- n is the no. of latest commits to be squashed
 * A file opens up, let the top most commit be at pick and change all other commits to squash then save and exit
 * now other files opens up, you can edit the commit messege here
-- follow the above mentioned rebase method to rebase
+* follow the above mentioned rebase method to rebase
