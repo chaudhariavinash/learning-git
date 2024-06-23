@@ -1,4 +1,4 @@
-# Source 
+# Git and GitHub Course
 Amigoscode: https://www.youtube.com/watch?v=3fUbBnN_H2c&t=7310s
 
 ![maxresdefault](https://github.com/chaudhariavinash/learning-git/assets/128373403/ed7f202a-26fe-4fec-a034-6a8c403b39f8)
